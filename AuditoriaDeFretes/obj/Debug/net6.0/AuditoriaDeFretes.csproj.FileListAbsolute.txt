@@ -1,0 +1,15 @@
+C:\Users\Wagner Melo\Desktop\Backup\Alura\Auditoria\AuditoriaDeFretes\AuditoriaDeFretes\obj\Debug\net6.0\AuditoriaDeFretes.csproj.AssemblyReference.cache
+C:\Users\Wagner Melo\Desktop\Backup\Alura\Auditoria\AuditoriaDeFretes\AuditoriaDeFretes\obj\Debug\net6.0\AuditoriaDeFretes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wagner Melo\Desktop\Backup\Alura\Auditoria\AuditoriaDeFretes\AuditoriaDeFretes\obj\Debug\net6.0\AuditoriaDeFretes.AssemblyInfoInputs.cache
+C:\Users\Wagner Melo\Desktop\Backup\Alura\Auditoria\AuditoriaDeFretes\AuditoriaDeFretes\obj\Debug\net6.0\AuditoriaDeFretes.AssemblyInfo.cs
+C:\Users\Wagner Melo\Desktop\Backup\Alura\Auditoria\AuditoriaDeFretes\AuditoriaDeFretes\obj\Debug\net6.0\AuditoriaDeFretes.csproj.CoreCompileInputs.cache
+C:\Users\Wagner Melo\Desktop\Backup\Alura\Auditoria\AuditoriaDeFretes\AuditoriaDeFretes\bin\Debug\net6.0\AuditoriaDeFretes.exe
+C:\Users\Wagner Melo\Desktop\Backup\Alura\Auditoria\AuditoriaDeFretes\AuditoriaDeFretes\bin\Debug\net6.0\AuditoriaDeFretes.deps.json
+C:\Users\Wagner Melo\Desktop\Backup\Alura\Auditoria\AuditoriaDeFretes\AuditoriaDeFretes\bin\Debug\net6.0\AuditoriaDeFretes.runtimeconfig.json
+C:\Users\Wagner Melo\Desktop\Backup\Alura\Auditoria\AuditoriaDeFretes\AuditoriaDeFretes\bin\Debug\net6.0\AuditoriaDeFretes.dll
+C:\Users\Wagner Melo\Desktop\Backup\Alura\Auditoria\AuditoriaDeFretes\AuditoriaDeFretes\bin\Debug\net6.0\AuditoriaDeFretes.pdb
+C:\Users\Wagner Melo\Desktop\Backup\Alura\Auditoria\AuditoriaDeFretes\AuditoriaDeFretes\obj\Debug\net6.0\AuditoriaDeFretes.dll
+C:\Users\Wagner Melo\Desktop\Backup\Alura\Auditoria\AuditoriaDeFretes\AuditoriaDeFretes\obj\Debug\net6.0\refint\AuditoriaDeFretes.dll
+C:\Users\Wagner Melo\Desktop\Backup\Alura\Auditoria\AuditoriaDeFretes\AuditoriaDeFretes\obj\Debug\net6.0\AuditoriaDeFretes.pdb
+C:\Users\Wagner Melo\Desktop\Backup\Alura\Auditoria\AuditoriaDeFretes\AuditoriaDeFretes\obj\Debug\net6.0\AuditoriaDeFretes.genruntimeconfig.cache
+C:\Users\Wagner Melo\Desktop\Backup\Alura\Auditoria\AuditoriaDeFretes\AuditoriaDeFretes\obj\Debug\net6.0\ref\AuditoriaDeFretes.dll
